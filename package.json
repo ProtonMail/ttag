@@ -1,5 +1,5 @@
 {
-  "name": "ttag",
+  "name": "@protontech/ttag",
   "version": "1.7.24",
   "description": "",
   "main": "index.js",
